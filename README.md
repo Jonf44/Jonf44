@@ -29,8 +29,8 @@ Aplicación móvil tipo sistema operativo que reúne múltiples miniapps en una 
 ## 📷 Vistazo a mis apps
 
 <p align="center">
-  <img src="./capturas/calculadora.png" width="300" style="border: 5px solid #ddd; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);"/>
-  <img src="./capturas/juego.png" width="300" style="border: 5px solid #ddd; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);"/>
+  <img src="./capturas/calculadora.png" width="300" style="border: 5px solid #ddd;"/>
+  <img src="./capturas/juego.png" width="300" style="border: 5px solid #ddd;"/>
 </p>
 
 
